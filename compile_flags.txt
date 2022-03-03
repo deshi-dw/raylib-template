@@ -1,0 +1,6 @@
+-Wall
+-std=c99
+-I
+libs/include/
+-L
+libs/static/
